@@ -29,10 +29,10 @@ I combine technical leadership, system design expertise, and collaborative execu
 ---
 
 ## 🛠 Technical Skills
-**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
-**Backend:** C#, VB.NET, ASP.NET Core, Node.js
-**Database:** SQL Server, MySQL
-**Cloud & DevOps:** Git, AWS, CI/CD
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap<br>
+**Backend:** C#, VB.NET, ASP.NET Core, Node.js<br>
+**Database:** SQL Server, MySQL<br>
+**Cloud & DevOps:** Git, AWS, CI/CD<br>
 **Practices:** System Design, REST APIs, Agile Leadership
 
 ---
