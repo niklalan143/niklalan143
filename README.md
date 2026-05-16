@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Nirav Lalan
-
-🚀 Senior Software Developer | .NET | Angular | REST APIs | AI-Driven Development  
-📍 India  
-📧 niklalan143@gmail.com  
-
----
-
 ## 💼 About Me
+🚀 Senior Software Developer | .NET Core | Angular | REST APIs | AI-Driven Development
+📍 Ahmedabad, Gujarat, India
+📧 niklalan143@gmail.com
 
 I am a Senior Software Developer with 12+ years shipping production-grade systems across fintech, ERP, and retail.
 
